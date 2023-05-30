@@ -1,6 +1,6 @@
 # ignore all files starting with the letter `z`.
 z*
 # ignore a file called .env
-*.env
+*.env*
 # ignore a top level directory named `artifacts`.
-/artifacts
+/artifacts/
